@@ -8,9 +8,10 @@ Application d'information pour une maison autonome, ainsi qu'un simulateur d'aid
 Partie admin accéssible seulement via Keycloak.
 
 
-#Pré-requis Vous devez posséder Java JRE version 8 ou supérieur sur votre machine pour pouvoir correctement utiliser l'application.
+# Pré-requis
+Vous devez posséder Java JRE version 8 ou supérieur sur votre machine pour pouvoir correctement utiliser l'application.
 
-#Technologies employées
+# Technologies employées
 
 Language :
 
